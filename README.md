@@ -107,7 +107,7 @@ I welcome suggestions, improvements, or additional Python project ideas. Feel fr
 
 ### License
 
-This repository is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). You're free to use, share, and adapt the code in this repository, but please give appropriate credit.
+This repository is licensed under the [MIT License](LICENSE). You're free to use, share, and adapt the code in this repository, but please give appropriate credit.
 
 ---
 
