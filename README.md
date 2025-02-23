@@ -55,13 +55,15 @@ within each project's folder:
 
 ### Project List
 
-1. **01_Age_calculator**
+1. **01_Age_Calculator**
    _A simple tool to calculate your age from your birthdate._
-2. **02\\\_**...(Coming soon)
-   _Brief description._
-3. **03\\\_**... (Coming soon)
-   _Brief description._
-4. ...
+2. **02_Unit_Converter**
+   _A versatile command-line program to convert values._
+3. **03_Random_Password_Gen**
+   _A Secure and customizable random password generator._
+4. **04_Countdown_Timer**
+   _a simple Countdown Timer that accepts user input._
+5. ...
    _And so on, until we reach 100+ projects!_
 
 As I complete each project, I will update this list with a title, summary, and link to the subfolder.
