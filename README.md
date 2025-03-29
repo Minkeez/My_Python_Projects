@@ -62,8 +62,10 @@ within each project's folder:
 3. **03_Random_Password_Gen**
    _A Secure and customizable random password generator._
 4. **04_Countdown_Timer**
-   _a simple Countdown Timer that accepts user input._
-5. ...
+   _A simple Countdown Timer that accepts user input._
+5. **05_Simple_Alarm_Clock**
+   _A simple yet powerful terminal-based alarm clock._
+6. ...
    _And so on, until we reach 100+ projects!_
 
 As I complete each project, I will update this list with a title, summary, and link to the subfolder.
