@@ -30,11 +30,11 @@ A simple yet powerful terminal-based alarm clock built with Python. This project
 After launching the program, you'll see a simple menu:
 
 ```mathematica
-📅 Alarm Clock Menu
-1️⃣ Set Alarm
-2️⃣ Remove Alarm
-3️⃣ View Alarms
-4️⃣ Exit
+===== Alarm Clock Menu =====
+1. Set Alarm
+2. Remove Alarm
+3. View Alarms
+4. Exit
 ```
 
 #### 🕐 Set Alarm
